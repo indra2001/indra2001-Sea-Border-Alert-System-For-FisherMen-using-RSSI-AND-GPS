@@ -30,8 +30,8 @@ we are creating 2 border alert system models here in our project. Its basically 
 
 Project Demo : https://drive.google.com/file/d/10O_rIqCxXwRd9tMJqDJF_T9wZZq5vYqj/view?usp=sharing
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/10O_rIqCxXwRd9tMJqDJF_T9wZZq5vYqj/view?usp=sharing)
+## 🔗 Project Demo
+[![portfolio](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSImuqyHahUK6HchTw4wO4PwjFlnLtTwOAffQ&usqp=CAU)](https://drive.google.com/file/d/10O_rIqCxXwRd9tMJqDJF_T9wZZq5vYqj/view?usp=sharing)
 
 
 ########################################################
