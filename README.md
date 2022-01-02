@@ -14,7 +14,7 @@ Now-a-days, Global positioning system has been widely used in market to detect t
 | Swathi J | swathi.j2018@vitstudent.ac.in |
 | Unnikrishnan Rajesh | unnikrishnan.rajesh2018@vitstudent.ac.in |
 
-# Sea-border-alert-system
+# Sea Border Alert System
 
 we are creating 2 border alert system models here in our project. Its basically an IOT based project. one model is done using gps nad teh other model is done using RSSI.
 
