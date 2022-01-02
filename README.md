@@ -16,7 +16,7 @@ Now-a-days, Global positioning system has been widely used in market to detect t
 
 # Sea Border Alert System
 
-we are creating 2 border alert system models here in our project. Its basically an IOT based project. one model is done using gps nad teh other model is done using RSSI.
+we are creating 2 border alert system models here in our project. Its basically an IOT based project. one model is done using gps ad the other model is done using RSSI.
 
 ## 🔗 Project Demo
 [![portfolio](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSImuqyHahUK6HchTw4wO4PwjFlnLtTwOAffQ&usqp=CAU)](https://drive.google.com/file/d/10O_rIqCxXwRd9tMJqDJF_T9wZZq5vYqj/view?usp=sharing)
