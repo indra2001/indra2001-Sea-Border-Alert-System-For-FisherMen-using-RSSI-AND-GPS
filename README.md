@@ -14,71 +14,78 @@ Now-a-days, Global positioning system has been widely used in market to detect t
 | Swathi J | swathi.j2018@vitstudent.ac.in |
 | Unnikrishnan Rajesh | unnikrishnan.rajesh2018@vitstudent.ac.in |
 
-
-## Project Setup Instructions
-- Unzip the files
-- Upload the code into ArduinoUno
-- Follow the Connection
-- Enable the wifi  hotspot, and Power On the System 
-- Open the ip address in web browser displayed in the LCD
-- Take the device away from the system to view the Safe zone,Moderate zone,Danger Zone.
-- Open the Adafruit.io website to see the location (Latitude and Longitude)
-
 # Sea-border-alert-system
 
 we are creating 2 border alert system models here in our project. Its basically an IOT based project. one model is done using gps nad teh other model is done using RSSI.
 
-Project Demo : https://drive.google.com/file/d/10O_rIqCxXwRd9tMJqDJF_T9wZZq5vYqj/view?usp=sharing
-
 ## 🔗 Project Demo
 [![portfolio](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSImuqyHahUK6HchTw4wO4PwjFlnLtTwOAffQ&usqp=CAU)](https://drive.google.com/file/d/10O_rIqCxXwRd9tMJqDJF_T9wZZq5vYqj/view?usp=sharing)
 
+# Sea Border Alert System Using RSSI Module
 
-########################################################
+| USING RSSI        | Project Setup Instructions                                                               |
+| ----------------- | ------------------------------------------------------------------ |
+| 1 | Unzip the files | 
+| 2 | Upload the code into ArduinoUno |
+| 3 | Follow the Connection |
+| 4 | Enable the wifi  hotspot, and Power On the System |
+| 5 | Open the ip address in web browser displayed in the LCD |
+| 6 | Take the device away from the system to view the Safe zone,Moderate zone,Danger Zone |
+| 7 | Open the Adafruit.io website to see the location (Latitude and Longitude) |
 
-1st sea border alert system using gps module
+## Hardware Components Required
 
-#######################################################
+- Arduino UNO
+- APR Voice Module
+- APR Voice Channel
+- 12V DC Motor
+- Motor Driver
+- Liquid Crystal Display
+- ESP8266 Wifi Module -2 No's
+- Adapter Cables
+- Power Supply
+- Jumper wires
+- Cardboard and gluegun
 
-##components required:
+## Software Components Required
 
-*Arduino uno
+- Arduino IDE
+- Adafruit.io open source dashboard
+- Proteus for Software Simulation
 
-*buzzer
+# Sea Border Alert System Using GPS Module
 
-*12v DC motor
+## Components required:
 
-*16 x 2 LCD Display
+- Arduino uno
 
-*Gps Module
+- buzzer
 
-*Bread Board
+- 12v DC motor
 
-*adaptor
+- 16 x 2 LCD Display
 
-*Jumperires for connecting the components.
+- Gps Module
 
-## Steps to follow.
-* so this arduino uno is a microcontroller which acts and a sandwich between the hardware and the software components.
+- Bread Board
 
-* take a jumper wire and connect 5v power supply from arduino to bread board, now take another jumper and connect the ground terminal of arduino uno to breadboard again.
+- adaptor
 
-* we are doing this step, as we need power supply port and ground port for multiple components.
+- Jumperires for connecting the components.
 
-* refer the gps_module_connection.png image to connect the hardware part.
-
-* once that connection is done, install arduino ide software and connect your arduino board 
-with your Laptop[using USB AB cable] where you have installed the arduino ide software. 
-
-* In arduino ide software go to ->tools ->board and make sure your arduino board is connected to teh software.
-
-* copy paste the "sea border alert system using_gps_module" code in the software and upload the code to your arduino uno board[using USB AB cable].
+| USING GPS        | Project Setup Instructions                                                               |
+| ----------------- | ------------------------------------------------------------------ |
+| 1 | so this arduino uno is a microcontroller which acts and a sandwich between the hardware and the software components |
+| 2 | take a jumper wire and connect 5v power supply from arduino to bread board, now take another jumper and connect the ground terminal of arduino uno to breadboard again |
+| 3 | we are doing this step, as we need power supply port and ground port for multiple components |
+| 4 | refer the gps_module_connection.png image to connect the hardware part |
+| 5 | once that connection is done, install arduino ide software and connect your arduino board with your Laptop[using USB AB cable] where you have installed the arduino ide software |
+| 6 | In arduino ide software go to ->tools ->board and make sure your arduino board is connected to teh software |
+| 7 | copy paste the "sea border alert system using_gps_module" code in the software and upload the code to your arduino uno board[using USB AB cable] |
 
 Note:
 I have used different border values according to my location, so kindly change the stored border values, according to your location and execute.
 
-
-#######################################################
 
 
 
