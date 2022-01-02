@@ -1,5 +1,6 @@
 ![Alt Text](Header/header.jpg)
 Date: 02-01-2022
+COURSE TITLE : TARP - Technical Answer For Real world Problem
 # Sea Border Alert System For FisherMen using RSSI AND GPS ⛵🌊
 We have been hearing about fishermen being seized by custody from other end and even killed. This is purely because of unawareness and unable to identify sea border between countries. So, we have initiated a systems using Global Positioning System (GPS) and Received Signal Strength Indicator (RSSI) to notify and resist the fishermen crossing the border. We use Global Positioning System to get the current location (latitude and longitude) of fishermen’s boat and Received Signal Strength Indicator to know the strength of the signal, followed further measures. This paper in brief states about various methods of tracking and resisting the fishermen on crossing the border. Navigation in the seawater areas is considered to be important aspect worn by any fishermen who goes for hunting. Basically, the tracking system is designed to make use of electronic device and a software installed in a system to track the current latitude and longitude measures and also detecting signal strength using Wi-Fi ports in the marine borders. 
 
