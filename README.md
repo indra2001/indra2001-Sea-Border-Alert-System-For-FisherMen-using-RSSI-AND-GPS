@@ -87,6 +87,9 @@ Note:
 I have used different border values according to my location, so kindly change the stored border values, according to your location and execute.
 
 
+![Alt Text](Header/sailing-boat.jpg)
+
+
 
 
 
