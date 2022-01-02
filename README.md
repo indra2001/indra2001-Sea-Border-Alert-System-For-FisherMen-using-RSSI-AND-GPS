@@ -71,7 +71,7 @@ we are creating 2 border alert system models here in our project. Its basically 
 
 - adaptor
 
-- Jumperires for connecting the components.
+- Jumper wires for connecting the components.
 
 | USING GPS        | Project Setup Instructions                                                               |
 | ----------------- | ------------------------------------------------------------------ |
@@ -80,7 +80,7 @@ we are creating 2 border alert system models here in our project. Its basically 
 | 3 | we are doing this step, as we need power supply port and ground port for multiple components |
 | 4 | refer the gps_module_connection.png image to connect the hardware part |
 | 5 | once that connection is done, install arduino ide software and connect your arduino board with your Laptop[using USB AB cable] where you have installed the arduino ide software |
-| 6 | In arduino ide software go to ->tools ->board and make sure your arduino board is connected to teh software |
+| 6 | In arduino ide software go to ->tools ->board and make sure your arduino board is connected to the software |
 | 7 | copy paste the "sea border alert system using_gps_module" code in the software and upload the code to your arduino uno board[using USB AB cable] |
 
 Note:
