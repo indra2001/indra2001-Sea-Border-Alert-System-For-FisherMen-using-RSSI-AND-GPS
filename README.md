@@ -58,6 +58,8 @@ we are creating 2 border alert system models here in our project. Its basically 
 
 # Sea Border Alert System Using GPS Module
 
+[![portfolio](https://f.hubspotusercontent20.net/hub/7526125/hubfs/gps_world_dark-1.jpg?width=1439&quality=low)
+
 ## Components required:
 
 - Arduino uno
